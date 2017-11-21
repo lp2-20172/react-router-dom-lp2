@@ -32,3 +32,14 @@ $ npm start
 ```
 # Demo
 [Demo](https://lp2-20172.github.io/react-router-dom-lp2)
+
+# usage
+
+```
+$ npm i -S react-router-dom-lp2
+
+o  mejor dicho
+
+$ npm i -S react-router-dom-ext
+
+```
