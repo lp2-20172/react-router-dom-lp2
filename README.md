@@ -14,3 +14,21 @@ Describe react-router-dom-lp2 here.
 
 [coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
 [coveralls]: https://coveralls.io/github/user/repo
+
+# Clone
+
+```
+$ git clone https://github.com/lp2-20172/react-router-dom-lp2.git
+$ cd react-router-dom-lp2
+
+```
+
+# install and start
+
+```
+$ npm install
+$ npm start
+
+```
+# Demo
+[Demo]: https://lp2-20172.github.io/catalogo/categorias/new
