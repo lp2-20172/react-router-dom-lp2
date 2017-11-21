@@ -31,4 +31,4 @@ $ npm start
 
 ```
 # Demo
-[Demo]: https://lp2-20172.github.io/catalogo/categorias/new
+[Demo] (https://lp2-20172.github.io/catalogo/categorias/new)
