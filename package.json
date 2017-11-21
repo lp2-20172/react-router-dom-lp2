@@ -1,6 +1,6 @@
 {
   "name": "react-router-dom-lp2",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "react-router-dom-lp2 React component",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -31,7 +31,10 @@
   "author": "",
   "homepage": "",
   "license": "MIT",
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lp2-20172/react-router-dom-lp2.git"
+  },
   "keywords": [
     "react-component"
   ]
